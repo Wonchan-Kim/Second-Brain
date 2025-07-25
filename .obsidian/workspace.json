@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "844c011cd1e4b17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b81b161d45433fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "609d6b053b44cfc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT354/Database application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database application"
+            }
+          },
+          {
+            "id": "a66c8b56c071643c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "873178048e20e958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DreamHack/System_Hacking/Stack Overflow Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack Overflow Attack"
+            }
+          },
+          {
+            "id": "01460f964dbdae5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DreamHack/System_Hacking/Stack Canaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack Canaries"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5493081bb16e51a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "308c85bfc277325f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7011f1ec6240ff24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be1ce8581d084455",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16c28908aa784cd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5594c31c1878906c",
+    "type": "split",
+    "children": [
+      {
+        "id": "89e2b8b8e493f6b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a72dd0bcbeea7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Privilege Escalation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Privilege Escalation"
+            }
+          },
+          {
+            "id": "53f47252a01c4b3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Privilege Escalation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Privilege Escalation"
+            }
+          },
+          {
+            "id": "4e1a83787953440e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "66fc82d6addb7d19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Privilege Escalation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Privilege Escalation"
+            }
+          },
+          {
+            "id": "d12a8e420578b3e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "ac6b87b65b740505",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "01460f964dbdae5e",
+  "lastOpenFiles": [
+    "DreamHack/System_Hacking/Untitled.md",
+    "DreamHack/System_Hacking/Stack Canaries.md",
+    "DreamHack/System_Hacking/Stack Overflow Attack.md",
+    "DreamHack/System_Hacking",
+    "DreamHack/web-ssrf.md",
+    "Linux file system.md",
+    "DreamHack",
+    "Notes.md",
+    "CMPT354/Database application.md",
+    "CMPT371/lecture 6- the transport layer.md",
+    "CMPT371/CMPT 371 FInal Preparation _ Lecture Notes/Lecture5 - Internetworking.md",
+    "CMPT371/Lec10 NAT and ICMP.md",
+    "CMPT354/Joins in SQL.md",
+    "CMPT371/TCP.md",
+    "CSES/Sprague-Grundy theorem. Nim.md",
+    "VIM practice.md",
+    "SUbqueries.md",
+    "SQL Practice.md",
+    "Penetration testing process.md",
+    "PoC proof of concept.md",
+    "Lateral movement.md",
+    "InfoSec Overview.md",
+    "Attacking network services.md",
+    "Assignment 1.md",
+    "HTB/Web basics HTTP, Curl, CRUD API.md",
+    "HTB/Type of Shells.md",
+    "HTB/Untitled.md",
+    "HTB/Transferring Files.md",
+    "Attachments/Pasted image 20250417205333.png",
+    "Attachments/Pasted image 20250417205011.png",
+    "Attachments/Pasted image 20250417204557.png",
+    "Attachments/Pasted image 20250417204403.png",
+    "Attachments/Pasted image 20250417203855.png",
+    "Attachments/Pasted image 20250417203624.png",
+    "Attachments/Pasted image 20250417203350.png",
+    "Attachments/Pasted image 20250417202729.png",
+    "Attachments/Pasted image 20250417202709.png",
+    "Attachments/Pasted image 20250417202446.png",
+    "CMPT371/CMPT 371 FInal Preparation _ Lecture Notes",
+    "CSES/Game Thoery",
+    "CSES",
+    "HTB/Penentration/NIbbles",
+    "CMPT354",
+    "CMPT371",
+    "HTB/Penentration",
+    "Attachments"
+  ]
+}

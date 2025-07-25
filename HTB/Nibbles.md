@@ -1,0 +1,12 @@
+Easy rated linux box that showcases common enumeration tactics, basic web application exploitation and a file related misconfiguration to escalate privileges.
+
+First step when approaching any machine is to perform some absic enumeration. First let us start with what we do know about the target.
+
+We already know the ip address, that it is linux and has a web based attack vector. We call this a grey box approach because we have some information about the target. On the HTB platform, the 20 active wekkly release machines are approached from black box persepective. Users are given the ip address and os type beforehand but no additional information about the target to formulate their attacks. This is why enumeration is critical and is often an iterative process.
+
+There are three main types black, grey, and white box.
+
+1) Black box is low level to no knowledge of a target. The penetration tester must perform in depth reconnaissance to learn about the target. This may be an external penetration test where the tester is given only the company name and no further information such as target IP addresses, or an internal penetration where the tester either has to bypass controls to gain initial access to the network or can connect to the internal network but has no information about internal networks/hosts. This type of penetration test most simulates an actual attack but is not as comprehensive as other assessment types and could leave misconfigurations undiscovered.
+2) Grey box test, the tester is given a certain amount of information in advance. This ma be a list of in-scope ip address/ranges, low level credentials to a web application or active directory, or some application/network diagrams. This type of penetration test can simulate a malicious insider or see what an attacker can do with a low level of access. In this scenario, the tester will typically spend less time on reconnaissance and more time looking for misconfiguration and attempting exploitation
+3) white box test, the tester is given complete access. In a web application test, they may be provided with administrator level credentials, access to the source code, build diagram, etc. To look for logic vulnerablilities and other difficult to discover flaws. In a network test, they may be given administrator level credentials to dig into active directory or other systems for misconfigurations that may otherwise be missed. This assessment type is highly comprehensive as the tester will have access to both sides of a target and perform a comprehensive analysis. 
+---
